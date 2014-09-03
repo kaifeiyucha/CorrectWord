@@ -1,0 +1,10 @@
+port=8989
+log=../log/loh.txt
+cache=../data/cache.txt
+DicEn=../data/DicEn.txt
+DicCh=../data/DicCh.txt
+cachenum=5
+updatefrequence=15
+
+
+
